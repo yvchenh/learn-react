@@ -1,7 +1,11 @@
+import Profile from "../components/profile";
+
 export default function Gallery() {
   return (
     <div>
       <h1>Notable Scientists</h1>
+     
+
       <section className="profile">
         <h2>Maria Skłodowska-Curie</h2>
         <img
