@@ -1,6 +1,7 @@
 ## Personal Information:
 
 Full Name: Enter Your Full Name
+Yuchen Hong
 
 ## Getting Started
 First, fork this repository and clone it to your local machine.
